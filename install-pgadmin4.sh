@@ -1,5 +1,7 @@
 #!/bin/bash
 
+# broken...
+
 # If you wish a different installation folder, please change this line...
 INSTALLATION_FOLDER=~/programs
 
